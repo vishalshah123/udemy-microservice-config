@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+loans:
+  message: "Welcome to EazyBank loans-config related qa APIs "
+  contactDetails:
+    name: Vishal Shah
+    email: vs@gmail.com
+  onCallSupport:
+    - (111) 1123 2343
+    - (111) 1123 3442

@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+cards:
+  message: "Welcome to EazyBank cards-config related prod APIs "
+  contactDetails:
+    name: Vishal Shah
+    email: vs@gmail.com
+  onCallSupport:
+    - (111) 1123 2343
+    - (111) 1123 3442
