@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to EazyBank accounts-config related prod APIs "
+  message: "Welcome to EazyBank accounts-config related prod APIs | github-config"
   contactDetails:
     name: Vishal Shah
     email: vs@gmail.com
